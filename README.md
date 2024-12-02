@@ -36,3 +36,15 @@
 | /2 |	192.0.0.0 |	63.255.255.255 |	1,073,741,824 |	1,073,741,822
 | /1 |	128.0.0.0 |	127.255.255.255 |	2,147,483,648 |	2,147,483,646
 | /0 |	0.0.0.0 |	255.255.255.255 |	4,294,967,296 |	4,294,967,294
+
+
+![level-1](https://github.com/user-attachments/assets/9eefd39b-2099-4b60-b50b-3a85bce21fb4)
+![level-2](https://github.com/user-attachments/assets/f40cae8a-18a9-4341-99aa-332a6f44f156)
+![level-3](https://github.com/user-attachments/assets/a6fe6a33-95e2-431c-aedd-726049efd336)
+![level-4](https://github.com/user-attachments/assets/9f7f3567-09fb-420b-bc46-d5219c749002)
+![level-5](https://github.com/user-attachments/assets/f2b7d3d8-792d-4cf7-8fd5-edda35b549ce)
+![level-6](https://github.com/user-attachments/assets/a7865214-340e-449e-9550-8021edab40df)
+![level-7](https://github.com/user-attachments/assets/aea49446-f514-43fe-8371-7f7a77b3e3fd)
+![level-8](https://github.com/user-attachments/assets/90228dcf-a897-4f6b-b87e-6a9acdf2e038)
+![level-9](https://github.com/user-attachments/assets/ca82bcd4-84f8-4228-b7ea-13d774c4ec13)
+![level-10](https://github.com/user-attachments/assets/3de20d50-bedf-4143-a0ac-4d4e76b9cac0)
