@@ -1,7 +1,8 @@
 # 42-netpractice
 
-Refs :
-https://medium.com/@imyzf/netpractice-2d2b39b6cf0a
+Refs : </br>
+https://medium.com/@imyzf/netpractice-2d2b39b6cf0a </br>
+https://toufa7.medium.com/new-subnetting-34fadfb86c70
 
 | CODE | MASK | WILDCARD MASK | # OF IP ADDRESSES | # OF USABLE IP ADDRESSES |
 |------|-------------|---------------|-------------------|-------------------|
