@@ -2,8 +2,7 @@
 
 NetPractice: The Network Wizard’s Training Ground 
 
-Get ready to embark on an epic quest through the digital realm with NetPractice! This magical set of networking exercises will take you on a journey where you’ll master the secrets of IP addresses and subnet masks. Sharpen your skills, hone your knowledge, and become a true wizard of the networking world! 🌐✨
-
+Get ready to embark on an epic quest through the digital realm with NetPractice! This magical set of networking exercises will take you on a journey where you’ll master the secrets of IP addresses and subnet masks. Sharpen your skills, hone your knowledge, and become a true wizard of the networking world!
 Refs : </br>
 https://medium.com/@imyzf/netpractice-2d2b39b6cf0a </br>
 https://toufa7.medium.com/new-subnetting-34fadfb86c70
